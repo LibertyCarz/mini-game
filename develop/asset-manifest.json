@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "https://libertycarz.github.io/minigame/develop/static/css/main.62484c6b.css",
-    "main.js": "https://libertycarz.github.io/minigame/develop/static/js/main.58a2db9c.js",
+    "main.css": "https://libertycarz.github.io/minigame/develop/static/css/main.2d34e8a2.css",
+    "main.js": "https://libertycarz.github.io/minigame/develop/static/js/main.24ae6d7d.js",
     "static/js/453.1dca2dca.chunk.js": "https://libertycarz.github.io/minigame/develop/static/js/453.1dca2dca.chunk.js",
     "index.html": "https://libertycarz.github.io/minigame/develop/index.html",
-    "main.62484c6b.css.map": "https://libertycarz.github.io/minigame/develop/static/css/main.62484c6b.css.map",
-    "main.58a2db9c.js.map": "https://libertycarz.github.io/minigame/develop/static/js/main.58a2db9c.js.map",
+    "main.2d34e8a2.css.map": "https://libertycarz.github.io/minigame/develop/static/css/main.2d34e8a2.css.map",
+    "main.24ae6d7d.js.map": "https://libertycarz.github.io/minigame/develop/static/js/main.24ae6d7d.js.map",
     "453.1dca2dca.chunk.js.map": "https://libertycarz.github.io/minigame/develop/static/js/453.1dca2dca.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.62484c6b.css",
-    "static/js/main.58a2db9c.js"
+    "static/css/main.2d34e8a2.css",
+    "static/js/main.24ae6d7d.js"
   ]
 }
